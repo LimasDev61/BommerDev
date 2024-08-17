@@ -2,9 +2,10 @@
  Programador iniciante em Java e SpringBoot
 
 ## Sobre mim
-• Estudando Java pela UDEMY e Ciência da Computação pela Estacio
-• Criativo, proativo e focado em aprender e compartilhar experiencias!
-• Tenho interesse em me conectar com estudantes e profissionais que carreguem o desejo de aprender e ensinar
+- Estudando Java pela UDEMY e Ciência da Computação pela Estácio
+- Criativo, proativo e focado em aprender e compartilhar experiências!
+- Tenho interesse em me conectar com estudantes e profissionais que carreguem o desejo de aprender e ensinar
+
 
 ## Estudando agora
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
