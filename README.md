@@ -2,9 +2,9 @@
  Programador iniciante em Java e SpringBoot
 
 ## Sobre mim
-![Bolinha Verde](https://path-to-your-image/green-circle.png) Estudando Java pela UDEMY e Ciência da Computação pela Estacio
-![Bolinha Amarela](https://path-to-your-image/yellow-circle.png) Criativo, proativo e focado em aprender e compartilhar experiencias!
-![Bolinha Laranja](https://path-to-your-image/orange-circle.png) Tenho interesse em me conectar com estudantes e profissionais que carreguem o desejo de aprender e ensinar
+• Estudando Java pela UDEMY e Ciência da Computação pela Estacio
+• Criativo, proativo e focado em aprender e compartilhar experiencias!
+• Tenho interesse em me conectar com estudantes e profissionais que carreguem o desejo de aprender e ensinar
 
 ## Estudando agora
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
