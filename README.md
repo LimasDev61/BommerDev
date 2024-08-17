@@ -17,4 +17,4 @@ Tenho interesse em me conectar com estudantes e profissionais que carreguem o de
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](renanalves000@gmail.com)
 
 ## Linguagens Utilizadas
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=BommerDev&layout=compact&theme=dracula)
