@@ -1,8 +1,17 @@
-Sobre Mim 👋
-Olá! Sou Renan, um estudante de Ciências da Computação apaixonado por tecnologia e desenvolvimento de software. Estou atualmente focado em aprimorar minhas habilidades em Java e Spring Boot, explorando o 
-universo do desenvolvimento backend. Adoro resolver problemas complexos e estou sempre em busca de novos desafios para expandir meu conhecimento.
+## Prazer, me chamo Renan Alves
+## Programador iniciante em Java e SpringBoot
 
-Este repositório é onde compartilho meus projetos, experimentos e aprendizado contínuo. Sinta-se à vontade para explorar meus trabalhos e entrar em contato se quiser discutir ideias, colaborar em projetos ou 
-simplesmente trocar conhecimentos sobre programação!
+## Sobre mim
+Estudando Java pela UDEMY e Ciência da Computação pela Estacio
+Criativo, proativo e focado em aprender e compartilhar experiencias!
+Tenho interesse em me conectar com estudantes e profissionais que carreguem o desejo de aprender e ensinar
 
+## Estudando agora
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
+## Vamos Conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/BommerDev)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561985989372)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](renanalves000@gmail.com)
