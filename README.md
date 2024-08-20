@@ -1,4 +1,4 @@
- ## Prazer, me chamo Renan Alves
+ ## Prazer, me chamo Renan Lima
  Programador iniciante em Java e SpringBoot
 
 ## Sobre mim
