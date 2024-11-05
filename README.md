@@ -2,7 +2,7 @@
  Programador iniciante em Java e SpringBoot
 
 ## Sobre mim
-- Estudando Java pela UDEMY e Software;
+- Estudando Java pela UDEMY e Engenharia de Software;
 - Criativo, proativo e focado em aprender e compartilhar experiências;
 - Tenho interesse em me conectar com estudantes e profissionais que carreguem o desejo de aprender e ensinar.
 
