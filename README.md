@@ -1,6 +1,6 @@
 ![tech stack banner](https://wallpapers.com/images/high/4k-star-wars-death-star-3wcuhjks0jijr5vp.webp)
 
-<h1 align='center'>Prazer, Sou Renan Lima</h1>
+<h1 align='center'>Prazer, Sou Renan Lima, tenho 32 anos</h1>
 
 Futuro desenvolvedor de software - FullStack, dedicado e em transição para o mundo da tecnologia. Apaixonado por aprendizado contínuo, estou focado em aprimorar habilidades em linguagens como JavaScript, TypeScript e Java, além de frameworks como Node.js e Spring Boot. Em busca de oportunidades para aplicar meus conhecimentos em projetos práticos, contribuir para soluções inovadoras e crescer em um ambiente dinâmico que valorize a tecnologia e a colaboração.
 
