@@ -28,6 +28,6 @@ Futuro desenvolvedor de software - FullStack, dedicado e em transição para o m
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](renanalves000@gmail.com)
 
 ## Linguagens Utilizadas
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=BommerDev&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LimasDev61&layout=compact&theme=dracula)
 
 
