@@ -2,10 +2,13 @@
 
 <h1 align='center'>Prazer, Sou Renan Lima, tenho 33 anos</h1>
 
-Futuro desenvolvedor de software - FullStack, dedicado e em transição para o mundo da tecnologia. Apaixonado por aprendizado contínuo, estou focado em aprimorar habilidades em linguagens como JavaScript, TypeScript e Java, além de frameworks como Node.js e Spring Boot. Em busca de oportunidades para aplicar meus conhecimentos em projetos práticos, contribuir para soluções inovadoras e crescer em um ambiente dinâmico que valorize a tecnologia e a colaboração.
+Desenvolvedor FullStack em Construção: De olho no futuro e nas novas paradas!
+Sou um futuro Dev FullStack nessa jornada de transição para o mundo da tecnologia, e olha, sou apaixonado por aprender! Tô sempre buscando aprimorar minhas habilidades em linguagens como JavaScript, TypeScript, Java e C#, e me aventurando em frameworks como Node.js e Spring Boot. Além disso, também estou mergulhando no universo dos jogos com Unity - minha paixão <3.
+
+Minha meta é encontrar oportunidades pra colocar a mão na massa em projetos bacanas, dar uma força em soluções criativas e crescer em um ambiente que respira tecnologia e parceria.
 
 ## Sobre mim
-- Atualmente, estou cursando Ciências da Computação e ampliando meus conhecimentos em desenvolvimento de software - FullStack.
+- Atualmente, estou cursando Engenharia de Software - quarto semestre.
 - Tenho investido em cursos de desenvolvimento, tanto pela UDEMY quanto pela plataforma CubosAcademy, buscando sempre me aprimorar.
 - Venho do setor administrativo e estou em transição para a área de tecnologia, com o objetivo de me tornar um desenvolvedor de software.
 
