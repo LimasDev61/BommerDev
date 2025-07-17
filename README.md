@@ -2,7 +2,6 @@
 
 <h1 align='center'>Prazer, Sou Renan Lima, tenho 33 anos</h1>
 
-Desenvolvedor FullStack em Construção: De olho no futuro e nas novas paradas!
 Sou um futuro Dev FullStack nessa jornada de transição para o mundo da tecnologia, e olha, sou apaixonado por aprender! Tô sempre buscando aprimorar minhas habilidades em linguagens como JavaScript, TypeScript, Java e C#, e me aventurando em frameworks como Node.js e Spring Boot. Além disso, também estou mergulhando no universo dos jogos com Unity - minha paixão <3.
 
 Minha meta é encontrar oportunidades pra colocar a mão na massa em projetos bacanas, dar uma força em soluções criativas e crescer em um ambiente que respira tecnologia e parceria.
