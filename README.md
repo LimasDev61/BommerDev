@@ -30,7 +30,6 @@ Minha meta é encontrar oportunidades pra colocar a mão na massa em projetos ba
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-lima-1a0358230/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561985989372)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](renanalves000@gmail.com)
 
 ## Linguagens Utilizadas
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LimasDev61&layout=compact&theme=dracula)
